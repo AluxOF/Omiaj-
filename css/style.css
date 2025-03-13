@@ -34,7 +34,6 @@ body {
         gap: 24px;
         left: 13%;
         z-index: 40;
-        opacity: 0;
     }
 
     .navegacao-global a {
