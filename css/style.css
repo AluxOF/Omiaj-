@@ -22,7 +22,7 @@ body {
 
     body {
         font-size: 14px;
-        overflow-x: hidden;
+        overflow: hidden;
     }
 
     /*Barra lateral*/
