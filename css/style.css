@@ -19,7 +19,7 @@ body {
     overflow-x: hidden;
 }
 
-@media (max-width: 414px) {
+@media (max-width: 424px) {
 
     body {
         font-family: var(--fonte-montserrat);
