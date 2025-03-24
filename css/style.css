@@ -16,6 +16,7 @@
 body {
     background-color: #EDEDED;
     font-family: "Montserrat", serif;
+    overflow-x: hidden;
 }
 
 @media (max-width: 414px) {
